@@ -23,7 +23,7 @@ export const HeaderList = styled.View`
     margin: 32px 0 12px;
 
 `;
-
+ 
 
 export const NumberOfPlayers = styled.Text`
 
